@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # INTRODUCTION
 
 This tutorial is for Cucumber Automation Framework using Maven and Java.
@@ -4981,3 +4982,6 @@ public class Hooks {
  _________________________________________________________________________________________________________________________
 
 
+=======
+# Cuke-4-Framework-Automation
+>>>>>>> 860f3ad8ddf1cae3389d29ca597402813896e927
